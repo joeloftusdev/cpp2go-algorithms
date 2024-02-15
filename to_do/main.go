@@ -1,6 +1,10 @@
 /*
+
+
 ALGORITHMS IN GOLANG
 JOELOFTUS.NET
+
+
 */
 
 ////////////////////////////////////////////////////////////////////
@@ -16,21 +20,21 @@ func main() {
 
 // Top Algorithms:
 
-// Binary Search Algorithm
-// Breadth First Search (BFS) Algorithm
-// Depth First Search (DFS) Algorithm
-// Inorder, Preorder, Postorder Tree Traversals
-// Insertion Sort, Selection Sort, Merge Sort, Quicksort, Counting Sort, Heap Sort
-// Kruskal’s Algorithm
-// Floyd Warshall Algorithm
-// Dijkstra’s Algorithm
-// Bellman Ford Algorithm
-// Kadane’s Algorithm
-// Lee Algorithm
-// Flood Fill Algorithm
-// Floyd’s Cycle Detection Algorithm
-// Topological Sorting in a DAG
-// Union Find Algorithm
+// Binary Search Algorithm  - [DONE]
+// Breadth First Search (BFS) Algorithm - [DONE]
+// Depth First Search (DFS) Algorithm - [DONE]
+// Inorder, Preorder, Postorder Tree Traversals - [DONE]
+// Insertion Sort, Selection Sort, Merge Sort, Quicksort, Counting Sort, Heap Sort - [DONE]
+// Kruskal’s Algorithm - [DONE]
+// Floyd Warshall Algorithm - [DONE]
+// Dijkstra’s Algorithm - [DONE]
+// Bellman Ford Algorithm - [DONE]
+// Kadane’s Algorithm - [DONE]
+// Lee Algorithm - [DONE]
+// Flood Fill Algorithm - [DONE]
+// Floyd’s Cycle Detection Algorithm - [DONE]
+// Topological Sorting in a DAG - [DONE]
+// Union Find Algorithm - [DONE]
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
