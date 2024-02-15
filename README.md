@@ -1,4 +1,4 @@
-# C++ 2 GO
+# C++ 2 GO Algorithms
 
 Lots of Algorithms converted from C++ into Golang.
 
