@@ -1,0 +1,3 @@
+module go_algorithm
+
+go 1.21.6
